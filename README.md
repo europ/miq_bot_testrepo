@@ -1,2 +1,1 @@
-# miq_bot_testrepo
-ManageIQ Bot Test Repository
+[ManageIQ Bot](https://github.com/ManageIQ/miq_bot) Test Repository
